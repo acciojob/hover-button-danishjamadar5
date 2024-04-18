@@ -5,6 +5,8 @@
     border-radius: 5px;
     Font-color: white;
 	color: white;
+	border-radius:5px;
+	border:none;
 }
 
 #btn:hover {
